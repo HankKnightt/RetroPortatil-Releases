@@ -6,9 +6,9 @@ Os pacotes não incluem jogos, BIOS, saves, configurações pessoais nem o códi
 
 ## Atualização automática
 
-A partir da versão 3.9.0, o emulador verifica atualizações ao abrir, baixa em segundo plano, confere o SHA-256 e aplica depois que fecha. Jogos, saves, capas, perfis, macros e configurações são preservados. Um backup dos arquivos substituídos fica em `.atualizacoes`.
+A partir da versão 3.9.1, o emulador verifica atualizações ao abrir, baixa em segundo plano, confere o SHA-256 e aplica depois que fecha. Jogos, saves, capas, perfis, macros e configurações são preservados. Um backup dos arquivos substituídos fica em `.atualizacoes`.
 
-A primeira instalação da versão 3.9.0 é manual. Para desativar, coloque `Automatica=0` na seção `[Atualizacao]` de `Atualizacao.ini`.
+A primeira instalação da versão 3.9.1 é manual. Para desativar, coloque `Automatica=0` na seção `[Atualizacao]` de `Atualizacao.ini`.
 
 ## Publicar uma versão
 
